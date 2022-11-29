@@ -16,21 +16,16 @@
         background-color: #37BBED;
         height: 80px;
     }
-    .navbar{
-        display: flex;
-        justify-content: left;
-    
-    }
-
+   
     span{
         color: #fff;
     }
    button{
     margin-top: 0 !important;
    }
-   h3{
-    margin-right: 70px;
-   }
+h4{
+    margin-right: 50px;
+}
    .navbar .btn .fa {
     font-size: 8px;
     left: 2px;}
@@ -516,4 +511,10 @@ margin-left: -15px;
     height: 100vh;
 }
 
-        }
+
+/*EMPIEZA LOGIN */
+
+
+
+
+}
